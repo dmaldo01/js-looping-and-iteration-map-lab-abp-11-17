@@ -8,9 +8,9 @@ function nameToAttributes(drivers){
   return names.map(function(name){
     let fname = name.split(" ")(0)
     let fname = name.split(" ")(2)
-    return {firstName: fname, lastName: lname})
-  }
-  
+    return {firstName: fname, lastName: lname}
+  })
+
 //[firsN]
 }
 function attributesToPhrase(drivers){
