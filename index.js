@@ -4,6 +4,7 @@ function lowerCaseDrivers(drivers){
     return name.toLowerCase()
   })
 }
+/*
 function nameToAttributes(drivers){
   return names.map(function(name){
     let fname = name.split(" ")(0)
