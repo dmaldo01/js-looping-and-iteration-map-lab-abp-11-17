@@ -11,9 +11,3 @@ function nameToAttributes(drivers){
     let lname = name.split(" ")[1]
     return {firstName: fname, lastName: lname}
   })
-
-
-}
-function attributesToPhrase(drivers){
-
-}
